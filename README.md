@@ -1,4 +1,4 @@
-# Assignment-KMeans-Clustering-and-PCA on ALS Datasets
+# Assignment- KMeans Clustering and PCA on ALS Datasets
 
 ## Description:
 
