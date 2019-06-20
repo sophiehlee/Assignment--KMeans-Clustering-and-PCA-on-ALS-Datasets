@@ -2,7 +2,7 @@
 
 ## Description:
 
-This was a short assignment which was part of the curriculum for a course in Predictive Analytics. It demonstrates how to group data using unsupervised learning techniques such as K-Means clustering and reduce dimensionality of datasets using Principal Component Analysis. 
+This was a short assignment which was part of the curriculum for the Predictive Analytics course. It demonstrates how to group data using unsupervised learning techniques such as K-Means clustering and reduce dimensionality of datasets using Principal Component Analysis. 
 
 ## Dataset
 
