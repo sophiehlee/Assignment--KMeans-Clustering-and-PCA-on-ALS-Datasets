@@ -14,5 +14,5 @@ Dataset URL:
 https://umich.instructure.com/courses/38100/files/folder/Case_Studies/15_ALS_CaseStudy
 
 • There are 2 files:
-o training (N1=2,223): ALS_TrainingData_2223.csv, and
+o training (N1=2,223): ALS_TrainingData_2223.csv
 o testing (N2=78): ALS_TestingData_78.csv
